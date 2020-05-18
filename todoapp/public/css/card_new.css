@@ -1,0 +1,15 @@
+.newBtn {
+  padding: 12px;
+  width: 200px;
+  border-radius: 21px;
+  background: #29b744;
+  color: #fff;
+  border: none;
+  margin-top: 20px;
+  opacity: 1;
+  transition: opacity 0.5s;
+  cursor: pointer;
+}
+.newBtn:hover {
+  opacity: 0.7;
+}
